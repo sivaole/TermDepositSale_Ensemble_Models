@@ -68,7 +68,9 @@ Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
 # Links:
-
+[Data](https://github.com/sivaole/TermDepositSale_Ensemble_Models/blob/master/bank-full.csv)  
+[Link to the report(detailed analysis) - Report]()   
+[Source code](https://github.com/sivaole/TermDepositSale_Ensemble_Models/blob/master/TermDepositSale.ipynb)
 
 # Developer:
 Sivasankar Vennala
